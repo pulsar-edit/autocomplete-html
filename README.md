@@ -1,3 +1,5 @@
+# This Repo is now Archived under Pulsar-Edit because it is bundled with the [editor](https://github.com/pulsar-edit/pulsar/tree/master/packages#core-packages).
+
 # HTML Autocomplete package
 [![OS X Build Status](https://travis-ci.org/atom/autocomplete-html.svg?branch=master)](https://travis-ci.org/atom/autocomplete-html) [![Windows Build Status](https://ci.appveyor.com/api/projects/status/bsaqbg1fljpd9q1b/branch/master?svg=true)](https://ci.appveyor.com/project/Atom/autocomplete-html/branch/master) [![Dependency Status](https://david-dm.org/atom/autocomplete-html.svg)](https://david-dm.org/atom/autocomplete-html)
 
