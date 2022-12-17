@@ -1,3 +1,5 @@
+# This Repo is now Archived under Pulsar-Edit because it is bundled with the [editor](https://github.com/pulsar-edit/pulsar/tree/master/packages#core-packages).
+
 # HTML Autocomplete package
 
 HTML tag and attribute autocompletions in Pulsar.
